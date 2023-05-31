@@ -1,0 +1,22 @@
+h1{
+color: rgb(53, 8, 188);
+}
+h2{
+    color: rgb(10, 9, 8);
+}
+h3{
+    color: rgb(53, 8, 188);
+}
+
+body{
+    background-color: rgb(170, 170, 252) ;
+}
+hr{
+    background-color:rgb(22, 22, 75);
+    border-style: dashed;
+    height: 2px;
+}    
+img{
+    height: 200px;
+    width: 200px;
+}    
